@@ -1,0 +1,12 @@
+{
+  "name": "lib_webrtc_crow",
+  "target": "armv6",
+  "description": "[name] [WebRTCpath]",
+  "scripts": "./lib_webrtc_crow undefined",
+  "data": [
+    "room_name"
+  ],
+  "control": [
+    "Control"
+  ]
+}
